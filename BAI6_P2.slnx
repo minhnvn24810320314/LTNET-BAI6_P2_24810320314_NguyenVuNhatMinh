@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BaiTap6_3/BaiTap6_3.csproj" />
+  <Project Path="BaiTap6_4/BaiTap6_4.csproj" Id="415ffb43-03df-4d9a-a836-73386dd885fc" />
+  <Project Path="BaiTap6_5/BaiTap6_5.csproj" Id="e97f01f8-0caa-45bb-9bfd-95927f06d797" />
+</Solution>
